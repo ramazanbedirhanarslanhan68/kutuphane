@@ -10,30 +10,16 @@ using System.Windows.Forms;
 
 namespace kutuphane
 {
-    public partial class ktp_ekl_form : Form
+    public partial class emn_vr_frm : Form
     {
-        public ktp_ekl_form()
+        public emn_vr_frm()
         {
             InitializeComponent();
         }
 
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label1_Click_1(object sender, EventArgs e)
-        {
-
-        }
-
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
+
         }
     }
 }

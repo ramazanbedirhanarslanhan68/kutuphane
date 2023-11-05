@@ -65,6 +65,7 @@
             emn_ver.TabIndex = 2;
             emn_ver.Text = "EMANET VER";
             emn_ver.UseVisualStyleBackColor = false;
+            emn_ver.Click += emn_ver_Click;
             // 
             // emn_lis
             // 

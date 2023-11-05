@@ -22,5 +22,10 @@ namespace kutuphane
             // Ýstediðiniz þekilde mevcut formu gizleyebilir veya kapatabilirsiniz
             this.Hide();
         }
+
+        private void emn_ver_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
